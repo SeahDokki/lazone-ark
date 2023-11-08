@@ -6,11 +6,11 @@
         "HideIconAfter": 999999,
         "IconURL": "https://i.imgur.com/aCwtQVr.png",
         "DisableIconText": false,
-        "IconPosition": 0,
+        "IconPosition": 3,
         "IconTextColor": 2,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": false,
-        "UpdateInterval": 12
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 1
       },
     "tabs": [
       {
@@ -18,8 +18,8 @@
           "layout": 2,
           "buttontext": "Home & Rules",
           "title1": "Welcome to La Zone",
-          "text1": "Blah Blah Blah",
           "title2": "Follow the rules",
+          "text1": "Blah Blah Blah",
           "text2": " 1. Basics.. respect others players and their stuff, no insult, shaming, harrassment :)\n 2. One base per tribe, no matter what\n 3. Don't let traps & pen in wilderness !\n 4. If you have a problem, submit a ticket on the Discord! \n 5. Don't put your base on POI (Explorer Note, Resources Spot, Drop spots...etc) \n 6. This is a PVE server, no stealing nor killing ! \n Most importantly Enjoy Playing with us :D",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
